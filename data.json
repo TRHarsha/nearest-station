@@ -1,0 +1,187 @@
+{
+    "places": {
+      "Davangere": {"lat": 14.4645, "lon": 75.9238}
+    },
+    "stations": [
+      {
+        "name": "Indian Oil: GR Service Station",
+        "type": "fuel",
+        "lat": 14.4824,
+        "lon": 75.9004,
+        "address": "State Highway 76; Davangere District; Tholahunase; Karnataka 577514; India",
+        "phone": "094497 59939",
+        "distance_km": 1.8
+      },
+      {
+        "name": "HP Petrol Pump VR Walawalkar",
+        "type": "fuel",
+        "lat": 14.4844,
+        "lon": 75.8876,
+        "address": "NH-4; P.B. Road; Kalpanhalli; Post Honnur; Davanagere; 577556; India",
+        "phone": "094482 33053",
+        "distance_km": 2.0
+      },
+      {
+        "name": "Siddheshwar Petroleum",
+        "type": "fuel",
+        "lat": 14.4850,
+        "lon": 75.8860,
+        "address": "S. No. 19 P; Honnur Golarhatti; Tal. & Dist; Karnataka; India",
+        "phone": "",
+        "distance_km": 2.0
+      },
+      {
+        "name": "B V GANGAPPA SETTY & SONS",
+        "type": "fuel",
+        "lat": 14.4700,
+        "lon": 75.9100,
+        "address": "Chithradurga Rd; Bharamasagara; Karnataka 577519; India",
+        "phone": "",
+        "distance_km": 2.1
+      },
+      {
+        "name": "Indian Oil Petrol Pump",
+        "type": "fuel",
+        "lat": 14.4700,
+        "lon": 75.9200,
+        "address": "Davanagere; Karnataka 577003; India",
+        "phone": "098865 32232",
+        "distance_km": 2.2
+      },
+      {
+        "name": "Hindustan Petroleum Fuel Station",
+        "type": "fuel",
+        "lat": 14.4800,
+        "lon": 75.9000,
+        "address": "S A R Nagar; Lokikere Road ;Industrial Area; Davanagere; Karnataka 577005; India",
+        "phone": "098450 25390",
+        "distance_km": 5.0
+      },
+      {
+        "name": "Davangere Auto Lpg",
+        "type": "fuel",
+        "lat": 14.4500,
+        "lon": 75.9200,
+        "address": "Davangere; Shivkumar Swamy Nagar 1st Stage; Shivakumara Swamy Nagara; Davanagere; Karnataka 577005; India",
+        "phone": "",
+        "distance_km": 6.7
+      },
+      {
+        "name": "BP Petrol Pump",
+        "type": "fuel",
+        "lat": 14.4520,
+        "lon": 75.9180,
+        "address": "Door No:599; Hadadi Road; Opposite Vani Rice Mill; Shivakumar Swamy Nagar; Davanagere; Karnataka 577005; India",
+        "phone": "095384 15723",
+        "distance_km": 6.9
+      },
+      {
+        "name": "HP Petrol Pump",
+        "type": "fuel",
+        "lat": 14.4530,
+        "lon": 75.9170,
+        "address": "CMC 596 C; Opposite Vani Rice Mill; Hadadi Rd; Davanagere; Karnataka 577004; India",
+        "phone": "094480 53663",
+        "distance_km": 7.0
+      },
+      {
+        "name": "Sharana Maganur Basappa Filling Station",
+        "type": "fuel",
+        "lat": 14.4540,
+        "lon": 75.9150,
+        "address": "2036; Hadadi Rd; Shivkumar Swamy Nagar 1st Stage; Shivakumara Swamy Nagara; Davanagere; Karnataka 577005; India",
+        "phone": "",
+        "distance_km": 7.2
+      },
+      {
+        "name": "IOCL Fuel Station",
+        "type": "fuel",
+        "lat": 14.4550,
+        "lon": 75.9130,
+        "address": "1st Stage; Hadadi Rd; Shivakumara Swamy Nagara; Davanagere; Karnataka 577005; India",
+        "phone": "098440 63013",
+        "distance_km": 7.2
+      },
+      {
+        "name": "Bharat Petroleum MM Krishna and Associates",
+        "type": "fuel",
+        "lat": 14.4560,
+        "lon": 75.9110,
+        "address": "Hadadi Road; Vidyanagar; Davanagere; Karnataka 577005; India",
+        "phone": "1800 22 2725",
+        "distance_km": 7.5
+      },
+      {
+        "name": "Bharat Petroleum Vishwas Fuels and Services",
+        "type": "fuel",
+        "lat": 14.4570,
+        "lon": 75.9100,
+        "address": "State Highway 76; Bhagat Singh Nagar; Nittuvalli; Davanagere; Karnataka 577002; India",
+        "phone": "0836 248 6677",
+        "distance_km": 7.9
+      },
+      {
+        "name": "Nandi Petrol Bunk",
+        "type": "fuel",
+        "lat": 14.4580,
+        "lon": 75.9080,
+        "address": "SH 76; KB Extension; Davanagere; Karnataka 577002; India",
+        "phone": "096116 23801",
+        "distance_km": 8.3
+      },
+      {
+        "name": "Kapal HP Petrol Pump",
+        "type": "fuel",
+        "lat": 14.4590,
+        "lon": 75.9060,
+        "address": "SH 76; KB Extension; Davanagere; Karnataka 577001; India",
+        "phone": "",
+        "distance_km": 8.4
+      },
+      {
+        "name": "HP PETROL PUMP V R WALAVALKAR",
+        "type": "fuel",
+        "lat": 14.4600,
+        "lon": 75.9040,
+        "address": "247; P.B. Road; OPP. NEW BUS Stand; Davanagere; Karnataka 577002; India",
+        "phone": "098440 92777",
+        "distance_km": 8.4
+      },
+      {
+        "name": "SRI JAYADEVA SERVICE STATION",
+        "type": "fuel",
+        "lat": 14.4610,
+        "lon": 75.9020,
+        "address": "DAVANAGERE (AMBEDKAR CIRCL; DAVANGERE; Karnataka 577002; India",
+        "phone": "",
+        "distance_km": 8.5
+      },
+      {
+        "name": "Indian Oil Corporation Petrol Bunk",
+        "type": "fuel",
+        "lat": 14.4620,
+        "lon": 75.9000,
+        "address": "Hadadi Rd; KTJ Nagar; Nittuvalli; Davanagere; Karnataka 577002; India",
+        "phone": "",
+        "distance_km": 8.5
+      },
+      {
+        "name": "HP PETROL PUMP - SRI BALAJI PETROLEUMS",
+        "type": "fuel",
+        "lat": 14.4630,
+        "lon": 75.8980,
+        "address": "HPC Dealers Door NO 923 1&2 ;924; R M C Main Road; Bamboo Bazaar; Davangere; Mangalore; Karnataka 577001; India",
+        "phone": "098459 44955",
+        "distance_km": 9.0
+      },
+      {
+        "name": "Bharat Petroleum Petrol Bunk",
+        "type": "fuel",
+        "lat": 14.4640,
+        "lon": 75.8960,
+        "address": "Ambedkar Circle; Hadadi Rd; Davanagere; Karnataka; India",
+        "phone": "",
+        "distance_km": 9.1
+      }
+    ]
+  }
